@@ -1,0 +1,6 @@
+@CargoInventory.API_HostAddress = http://localhost:5254
+
+GET {{CargoInventory.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
